@@ -1,2 +1,2 @@
 ## Financial analysis
-Cryptocurrency market is exceptionally volatile, this projects analyses trends & values of various cryptocurrencies over time.
+Cryptocurrency market is extremely volatile: this notebook analyses trends & values of various cryptocurrencies over time.
